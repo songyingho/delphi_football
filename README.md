@@ -4,10 +4,10 @@ Executive Summary: Analyzing individual team performances in Bundesliga for the 
 
 Using the dataset given, we accomplished the following:
 1. Final dataset consisting of:
-  - Team Name
-  - Total Goals Scored by Team
-  - Total Wins Acquired by Team
-  - Win Percentage by Team during rain days
+*  - Team Name
+*  - Total Goals Scored by Team
+*  - Total Wins Acquired by Team
+*  - Win Percentage by Team during rain days
 2. Histogram Visualization dsplaying the number of wins and losses by each team
 3. Two classes created for the project (SQL & MongoDB)
 4. Integrated weather information into our project via DarkSky API
