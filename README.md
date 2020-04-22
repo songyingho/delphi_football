@@ -8,7 +8,7 @@ Using the dataset given, we accomplished the following:
 *  - Total Goals Scored by Team
 *  - Total Wins Acquired by Team
 *  - Win Percentage by Team during rain days
-2. Histogram Visualization dsplaying the number of wins and losses by each team
+2. Histogram Visualization displaying the number of wins and losses by each team
 3. Two classes created for the project (SQL & MongoDB)
 4. Integrated weather information into our project via DarkSky API
 5. Imported final dataset to MongoDB
